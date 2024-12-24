@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "debugpy",
+            "request": "launch",
+            "name": "Launch test.py",
+            "program": "${workspaceFolder}/test.py"
+        }
+    ]
+}
